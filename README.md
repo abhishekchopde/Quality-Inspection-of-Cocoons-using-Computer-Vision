@@ -1,0 +1,2 @@
+# Quality-Inspection-of-Cocoons-using-Computer-Vision
+This project aims at inspecting the quality and the quantity of silk inside cocoons using computer vision. It establishes the relationship between physical parameters (area,volume,perimeter) and quantity of silk inside a cocoon shell. It also aims at classifying the cocoons based on their texture quality. At the end of this project we concluded quality of silk inside a cocoon shell depends on the quality of the texture.
